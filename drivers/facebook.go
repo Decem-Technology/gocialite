@@ -3,7 +3,7 @@ package drivers
 import (
 	"net/http"
 
-	"github.com/danilopolani/gocialite/structs"
+	"github.com/Decem-Technology/gocialite/structs"
 	"golang.org/x/oauth2/facebook"
 )
 
